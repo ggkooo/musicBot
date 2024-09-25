@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Node.js
+node_modules/
+.env
+
+# MacOS
+.DS_Store
+
+# XML
+*.xml
